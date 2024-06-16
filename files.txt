@@ -1,0 +1,5 @@
+/output.cgi
+/favicon.ico
+/output.cgi
+/
+/output.cgi
